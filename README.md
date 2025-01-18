@@ -1,4 +1,4 @@
 # sarwark-demo
-author => sarwarkhan
+author => sarwarkhan (apna college)
 <br/>
 this the best github repo
